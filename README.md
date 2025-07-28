@@ -1,8 +1,8 @@
 # -Email-Automation-Using-Python-SMTP-
-
-...
+---
 🔹 Project Overview
 This project demonstrates how to automatically send emails using Python's smtplib module. The program collects sender information, subject, message body, and sends personalized emails to multiple recipients with just one execution.
+---
 
 🔹 Features
 Send emails via Gmail SMTP server
@@ -14,6 +14,7 @@ Supports sending emails to multiple recipients
 Dynamic subject and message input
 
 Clean and readable code
+---
 
 🔹 Technologies Used
 Python
